@@ -1,2 +1,1 @@
-# Would-You-Rather
-React Application for Udacity React Nanodegree Program
+### View the PowerPoint. It looks better. 
